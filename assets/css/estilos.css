@@ -20,6 +20,12 @@ body {
   background-position: center;
 }
 
+.image-top {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+} 
+
 /* Contacto */
 
 #Contacto form label {
